@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(212, 238, 245);
+}
+hr{
+    border-style:dotted;
+    border-color: rgb(211, 35, 35);
+    
+    border-top: 2ch;  
+}
+h1{
+    font-family: cursive;
+    
+}
+p{
+    font-family:sans-serif;
+}
+img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
